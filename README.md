@@ -12,9 +12,9 @@ This web applciation utilizes a combination of html, css and php.
     
 Site Map:
 
-- index.html -> Home landing page from which all sit navigation begins. General Information and Links to other parts of the site
+- index.html -> Home landing page from which all site navigation begins. General Information and Links to other parts of the site
     are found here.
-- Reservable_Rooms.html -> Room reservation information including descirptions and the ability to navigate to the account
+- Reservable_Rooms.html -> Room reservation information including descriptions and the ability to navigate to the account
     creation pages.
     
     
