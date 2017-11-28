@@ -2,12 +2,12 @@
 
 This web applciation utilizes a combination of html, css and php. 
 
-- The index.html and Reservable_Rooms.html were built from the ground up but were based loosely upon the esri calcite template      
-          (https://esri.github.io/calcite-web/).
+- The index.html and Reservable_Rooms.html were built from the ground up but were based loosely upon the esri calcite 
+          template (https://esri.github.io/calcite-web/).
     - I employed a series of parallax and flex box effects and custom wrote the stylesheets to be used in conjunction with 
           the framework.
 
-- The .php files were derivatives of the Murach Chapter 24 guitar shop application.
+- The .php files were derivatives/based upon the Murach Chapter 24 guitar shop application.
     - These files have been edited heavily to reflect the use case presented here.
     
 Site Map:
