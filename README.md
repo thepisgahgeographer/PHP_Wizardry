@@ -1,6 +1,6 @@
 # PHP_Wizardry
 
-This web applciation utilizes a combination of html, css and php. 
+This web application utilizes a combination of html, css and php. 
 
 - The index.html and Reservable_Rooms.html were built from the ground up but were based loosely upon the esri calcite 
           template (https://esri.github.io/calcite-web/).
